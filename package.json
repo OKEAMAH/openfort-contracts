@@ -38,7 +38,7 @@
     "@nomiclabs/hardhat-etherscan": "^3.1.7",
     "@openzeppelin/contracts": "^4.9.0",
     "@openzeppelin/contracts-upgradeable": "^4.9.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.5",
     "hardhat-gas-reporter": "^1.0.9",
     "solidity-coverage": "^0.8.2"
   },
